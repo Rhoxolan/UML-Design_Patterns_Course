@@ -32,12 +32,12 @@ namespace SquareToRound
 
     class SquarePeg //Adaptee
     {
-        public required double Side { get; set; }
+        public required double Side { get; init; }
     }
 
     class RoundPeg //Target
     {
-        public required double D { get; set; }
+        public required double D { get; init; }
     }
 
     class SquareToRoundAdapter : RoundPeg //Adapter
