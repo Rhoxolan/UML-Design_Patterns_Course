@@ -16,3 +16,6 @@ PW - Приложение "SquareToRound", проработка паттерна
 
 21.11.2022 Структурні патерни. Ч. 2
 PW - Приложение "CarRental", проработка паттерна Decorator.
+
+25.11.2022 - Патерни поведінки
+PW - WinForms приложение "Coin Terminal", проработка паттернов Chain of Responsibility, Facade и Template method.
