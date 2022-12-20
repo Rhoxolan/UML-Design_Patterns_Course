@@ -18,5 +18,8 @@ PW - Приложение "SquareToRound", проработка паттерна
 PW - Приложение "CarRental", проработка паттерна Decorator.
 
 25.11.2022 - Патерни поведінки
-PW - WinForms приложение "Coin Terminal", проработка паттернов Chain of Responsibility, Facade и Template method.
-HW - WinForms приложение "Printer", проработка паттерна State.
+PW - WinForms приложение "Coin Terminal", проработка паттернов Chain of Responsibility, Facade и Template Method.
+HW - WinForms приложение "Printer", проработка паттернов State и Template Method.
+
+17.12.2022 - Патерни поведінки Ч. 2
+PW - приложение "Electrician", проработка паттерна Visitor. Пример работы с ImmutableList.
